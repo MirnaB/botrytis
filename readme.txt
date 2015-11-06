@@ -1,1 +1,1 @@
-Thesis project of Botrytis and tomato interaction through sRNAs
+Thesis project 'interaction between Botrytis cinerea and tomato through sRNAs'
